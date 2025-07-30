@@ -7,6 +7,7 @@
    - `analyse`
    - `build-matrix`
    - `workflow-summary`
+   - `LICENCE.txt`
 3. Ouvrez le fichier `analyse/action.yml` et remplacez toutes les occurrences de `v3` par `v4` afin d'assurer la compatibilité avec les versions récentes de GitHub Actions.
 
 ## Étape 2 : Forger un CBOM
@@ -34,4 +35,4 @@ par:
 
 5. Une fois le workflow terminé, un résumé du CBOM devrait apparaître en dessous.
 
-> Un exemple de résultat est disponible dans le dossier **result**
+> Un exemple de résultat est disponible dans le dossier **result**, généré à partir du code contenu dans le fichier **test-app**.
