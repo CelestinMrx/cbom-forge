@@ -30,6 +30,8 @@ par:
 
 4. Une fois les modifications commitées, allez dans l’onglet **Actions** de votre dépôt :
 - Cliquez sur **Create Crypto Bill of Materials**.
-- Cliquez ensuite sur **Run**.
+- Cliquez ensuite sur **Run workflow**.
 
 5. Une fois le workflow terminé, un résumé du CBOM devrait apparaître en dessous.
+
+> Un exemple de résultat est disponible dans le dossier **result**
